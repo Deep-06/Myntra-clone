@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "name": "T Shirt",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Puma",
+      "price": 1000,
+      "category": "topwear",
+      "gender": "female",
+      "id": 3
+    },
+    {
+      "name": "T Shirt",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Puma",
+      "price": 3999,
+      "category": "topwear",
+      "gender": "kids",
+      "id": 4
+    },
+    {
+      "name": "Kids black shoes",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Bata",
+      "price": 400,
+      "category": "footwear",
+      "gender": "kids",
+      "id": 5
+    },
+    {
+      "name": "Jeans",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Roadster",
+      "price": 800,
+      "category": "bottomwear",
+      "gender": "kids",
+      "id": 6
+    },
+    {
+      "name": "Item 1",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Puma",
+      "price": 3000,
+      "category": "foot-wear",
+      "gender": "male",
+      "id": 7
+    },
+    {
+      "name": "Tshirt",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Puma",
+      "price": 3000,
+      "category": "top-wear",
+      "gender": "male",
+      "id": 8
+    }
+  ]
+}
